@@ -1,4 +1,4 @@
-# competencies_registry_api
+# Competencies Registry Importer/API
 
 
 # Configuration
