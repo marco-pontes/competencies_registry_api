@@ -1,0 +1,33 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-1bde3e95-d89f-11e9-8250-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-1bde3e95-d89f-11e9-8250-782bcb5df6ac",
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-0167c628-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-015fecd8-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0165ed08-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161a67f-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0167c978-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01628686-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-785bd3af-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-015f40cf-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0167cad2-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01666e67-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-796ea703-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0167cb9a-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0165ea0b-d819-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-9fab4187-d8e7-11e9-8250-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-1bde3d4e-d89f-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "2022-02-21",
+  "ceasn:codedNotation": "43233503",
+  "ceasn:competencyText": {
+    "en-us": "Network conferencing software"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-1bde3e95-d89f-11e9-8250-782bcb5df6ac"
+  ]
+}

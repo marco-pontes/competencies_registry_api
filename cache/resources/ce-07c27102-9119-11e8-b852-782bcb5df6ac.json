@@ -1,0 +1,38 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c27102-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c27102-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Technical"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c271a8-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27213-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27279-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c272e0-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27342-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c273a0-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c273fc-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c2745d-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c274ba-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27519-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c275d8-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2000-08-01T00:00:00Z",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:codedNotation": "2.B.3",
+  "ceasn:competencyText": {
+    "en-us": "Developed capacities used to design, set-up, operate, and correct malfunctions involving application of machines or technological systems"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c27102-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Technical Skills"
+  }
+}

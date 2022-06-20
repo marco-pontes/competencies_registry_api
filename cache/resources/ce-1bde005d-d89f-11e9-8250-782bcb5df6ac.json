@@ -1,0 +1,59 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-1bde005d-d89f-11e9-8250-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-1bde005d-d89f-11e9-8250-782bcb5df6ac",
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-01611dad-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01611dea-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612095-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612116-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016121d2-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161228d-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161230b-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161241a-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161246b-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016125f7-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b480-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612677-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b4c0-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b501-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b544-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b583-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b5c3-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b604-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b686-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161287b-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016128fb-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161293b-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016129ba-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016129f9-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612a36-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612ab5-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b705-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01615147-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612c3b-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b787-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612cbd-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01612cff-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b7c8-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01605ce0-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01606c55-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016581e6-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161330f-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161b8c8-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016133cf-d819-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-9fab4187-d8e7-11e9-8250-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-1bddfe6d-d89f-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "2022-02-21",
+  "ceasn:codedNotation": "43231603",
+  "ceasn:competencyText": {
+    "en-us": "Tax preparation software"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-1bde005d-d89f-11e9-8250-782bcb5df6ac"
+  ]
+}

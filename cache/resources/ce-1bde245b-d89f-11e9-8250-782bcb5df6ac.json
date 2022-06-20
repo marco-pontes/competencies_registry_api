@@ -1,0 +1,40 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-1bde245b-d89f-11e9-8250-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-1bde245b-d89f-11e9-8250-782bcb5df6ac",
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-0167810c-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-78eaba7a-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01625b51-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-7c69191e-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-7c6b54b6-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161cdd7-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-7c454549-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-7841b35a-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016783bb-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0167c308-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-78ebfde7-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161dbd2-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01651a8a-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161f921-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0165d03f-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161ddc7-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016727f6-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0161df52-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-78ec8d95-7585-11eb-8923-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0167c3d0-d819-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-9fab4187-d8e7-11e9-8250-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-1bde237f-d89f-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "2022-02-21",
+  "ceasn:codedNotation": "43232702",
+  "ceasn:competencyText": {
+    "en-us": "Desktop communications software"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-1bde245b-d89f-11e9-8250-782bcb5df6ac"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c25c7f-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c25c7f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "use rules to solve problems"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c25b00-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.1.b.4",
+  "ceasn:competencyText": {
+    "en-us": "The ability to apply general rules to specific problems to produce answers that make sense."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Deductive Reasoning"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

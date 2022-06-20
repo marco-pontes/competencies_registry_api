@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+venv
+database.sqlite
+.pytest_cache
+.idea
 # C extensions
 *.so
 

@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c27d8a-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c27d8a-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "see something even if there is a glare or very bright light"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c34c57-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.4.a.7",
+  "ceasn:competencyText": {
+    "en-us": "The ability to see objects in the presence of glare or bright lighting."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Glare Sensitivity"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

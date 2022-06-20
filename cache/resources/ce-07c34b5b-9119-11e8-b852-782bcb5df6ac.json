@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c34b5b-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c34b5b-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "move your arms, legs, and mid-section together while your whole body is moving"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c34a66-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.3.c.3",
+  "ceasn:competencyText": {
+    "en-us": "The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Gross Body Coordination"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

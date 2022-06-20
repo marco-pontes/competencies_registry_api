@@ -1,0 +1,29 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-52b6840f-0264-4708-ab50-52f4b4bdd463",
+  "@type": "ceasn:CompetencyFramework",
+  "ceasn:name": {
+    "en-us": "Substantiating competency properties test framework"
+  },
+  "ceterms:ctid": "ce-52b6840f-0264-4708-ab50-52f4b4bdd463",
+  "ceasn:creator": [
+    "https://staging.credentialengineregistry.org/resources/ce-9bd8c615-9f3c-40e6-9c20-6d9f811844e6"
+  ],
+  "ceasn:publisher": [
+    "https://staging.credentialengineregistry.org/resources/ce-9bd8c615-9f3c-40e6-9c20-6d9f811844e6"
+  ],
+  "ceasn:inLanguage": [
+    "en"
+  ],
+  "ceasn:description": {
+    "en-us": "Testing the new properties"
+  },
+  "ceasn:hasTopChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-5b55b3bc-a715-439f-8594-24919d7765bb"
+  ],
+  "ceasn:publisherName": {
+    "en": [
+      "Credential Engine Administration Staging"
+    ]
+  }
+}

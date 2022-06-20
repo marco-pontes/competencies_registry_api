@@ -1,0 +1,34 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c281dc-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c281dc-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Math and Science"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c2855d-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c285e2-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c2864b-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c286b2-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c28719-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c2877b-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c287de-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2000-08-01T00:00:00Z",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:codedNotation": "2.C.4",
+  "ceasn:competencyText": {
+    "en-us": "Knowledge of the history, theories, methods, and applications of the physical, biological, social, mathematical, and geography"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c281dc-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Mathematics and Science"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c27d28-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c27d28-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "decide which thing is closer or farther away from you or decide how far away it is from you"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c34c57-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.4.a.6",
+  "ceasn:competencyText": {
+    "en-us": "The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Depth Perception"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

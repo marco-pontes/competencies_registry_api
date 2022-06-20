@@ -1,0 +1,15 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-64b7f43a-58b1-4981-bf1c-80e887d3a951",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-64b7f43a-58b1-4981-bf1c-80e887d3a951",
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-d3248489-6d20-44eb-bccd-e686b4e9e082",
+  "ceasn:dateCreated": "2022-01-18",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-d3248489-6d20-44eb-bccd-e686b4e9e082",
+  "ceasn:competencyText": {
+    "en-us": "Understand cellular interactions and the processes of cellular reproduction."
+  },
+  "ceasn:exactAlignment": [
+    "https://credentialengineregistry.org/resources/ce-64b7f43a-58b1-4981-bf1c-80e887d3a951"
+  ]
+}

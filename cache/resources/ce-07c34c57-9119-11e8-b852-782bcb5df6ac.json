@@ -1,0 +1,31 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c34c57-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c34c57-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Vision"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c34ca6-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c2577a-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27c00-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27c6c-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27ccb-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27d28-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c27d8a-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c34c04-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.4.a",
+  "ceasn:competencyText": {
+    "en-us": "Abilities related to visual sensory input"
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Visual Abilities"
+  }
+}

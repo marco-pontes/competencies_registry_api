@@ -1,0 +1,15 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-9246c07d-6dad-4940-8997-8856cc78b87b",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-9246c07d-6dad-4940-8997-8856cc78b87b",
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-d3248489-6d20-44eb-bccd-e686b4e9e082",
+  "ceasn:dateCreated": "2022-01-18",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-d3248489-6d20-44eb-bccd-e686b4e9e082",
+  "ceasn:competencyText": {
+    "en-us": "Present scientific data orally and in written lab reports to demonstrate the ability to draw"
+  },
+  "ceasn:exactAlignment": [
+    "https://credentialengineregistry.org/resources/ce-9246c07d-6dad-4940-8997-8856cc78b87b"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c348c8-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c348c8-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "jump, sprint, or throw something"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c3481f-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.3.a.2",
+  "ceasn:competencyText": {
+    "en-us": "The ability to use short bursts of muscle force to propel oneself (as in jumping or sprinting), or to throw an object."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Explosive Strength"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}
