@@ -1,6 +1,7 @@
 # Competencies Registry Importer/API
 
-
+This project is based on the Learning Tapestry developer [test guidelines](https://github.com/learningtapestry/learning-tapestry-developer-test)
+and contains an registry API data fetcher, database populator and serves an API(WIP) for a React frontend application(WIP).
 ## Configuration
 
 1. Clone the repo:
@@ -15,23 +16,9 @@ git clone https://github.com/marco-pontes/competencies_registry_api.git
 cd competencies_registry_api
 ```
 
-4. Install the project dependencies
-
+4. Install the project dependencies using python virtualenv to setup the environment for you:
 ```bash
-pip install requests 
-
-pip install pyjwt 
-
-pip install validators
-
-pip install pony 
-
-pip install -U pytest
-```
-
-or use python virtualenv to setup the environment for you:
-```bash
-python3 -m venv venv && source venv/bin/activate && pip install -r requirements.txt
+python -m venv venv && source venv/bin/activate && pip install -r requirements.txt
 ```
 
 ## Resources Importer
@@ -49,8 +36,13 @@ PYTHONPATH=$(pwd) python data_importer/main.py
 
 The API will make the resources saved to the database available as an API to be used on a frontend application. This is still a work in progress.
 
+## React Frontend
+
+WIP
+
 ## Testing
 
+Python backend code can be tested using the following command:
 ```bash
 python -m pytest . 
 ```
