@@ -39,4 +39,4 @@ class CacheManager:
         return file_exists
 
     def build_file_path(self, resource_id, sub_path):
-        return path.join(ROOT_DIR, 'cache', sub_path, '{uuid}.json'.format(uuid=resource_id))
+        return path.join(CACHE_DIR, sub_path, '{uuid}.json'.format(uuid=resource_id))

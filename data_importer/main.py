@@ -8,7 +8,7 @@ from data_importer.resources.tree_data_loader import TreeDataLoader
 from os import path
 
 from definitions import ROOT_DIR
-from data_importer.models import db, set_sql_debug
+from models import db, set_sql_debug
 from data_importer.services.competency_tree_populator_service import CompetencyTreePopulatorService
 
 db.bind(provider='sqlite', filename=path.join(ROOT_DIR, 'database.sqlite'), create_db=True)

@@ -1,5 +1,5 @@
 from data_importer.resources.resource_url import ResourceURL
-from data_importer.models import db_session, commit, Competency
+from models import db_session, commit, Competency
 
 
 class CompetencyTreePopulatorService:
