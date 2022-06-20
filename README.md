@@ -1,7 +1,7 @@
 # Competencies Registry Importer/API
 
 
-# Configuration
+## Configuration
 
 python3 -m pip install requests 
 
@@ -13,17 +13,17 @@ pip install pony
 
 pip install -U pytest
 
-# File Importer
+## File Importer
 
 
 
 
-# API
+## API
 
 
 
 
-# Testing
+## Testing
 
 
 python -m pytest . 
