@@ -2,7 +2,7 @@ from data_importer.resources.resource_url import ResourceURL
 from models import db_session, commit, Competency
 
 
-class CompetencyTreePopulatorService:
+class CompetencyTreeDatabasePopulatorService:
     def __init__(self, json_resources_manager):
         self.json_resources_manager = json_resources_manager
 

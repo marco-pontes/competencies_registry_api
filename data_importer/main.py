@@ -9,7 +9,7 @@ from os import path
 
 from definitions import ROOT_DIR
 from models import db, set_sql_debug
-from data_importer.services.competency_tree_populator_service import CompetencyTreePopulatorService
+from data_importer.services.competency_tree_database_populator_service import CompetencyTreeDatabasePopulatorService
 
 db.bind(provider='sqlite', filename=path.join(ROOT_DIR, 'database.sqlite'), create_db=True)
 db.generate_mapping(create_tables=True)
@@ -31,10 +31,9 @@ for record in api_records:
 
 
 competencies_ids = tree_data_loader.loaded_resources_by_type['ceasn:Competency']
-CompetencyTreePopulatorService(resources_manager).run(competencies_ids)
+CompetencyTreeDatabasePopulatorService(resources_manager).run(competencies_ids)
 
 #Missing classes to insert into the database
 # CredentialOrganization
 # DigitalBadge
 # CompetencyFramework
-# Competency
