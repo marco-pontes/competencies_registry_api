@@ -1,0 +1,39 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-1bde391d-d89f-11e9-8250-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-1bde391d-d89f-11e9-8250-782bcb5df6ac",
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-01659939-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01672443-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0166fd9a-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016813ba-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0167c932-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01672509-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01679c3e-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0165d520-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01656525-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01672611-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016705a7-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016564e5-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01651f4a-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016707ed-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01655f5f-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0166ce37-d819-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-9fab4187-d8e7-11e9-8250-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-1bde34df-d89f-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "2022-02-21",
+  "ceasn:codedNotation": "43233413",
+  "ceasn:competencyText": {
+    "en-us": "Voice recognition software"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-1bde391d-d89f-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:competencyCategory": {
+    "en-us": "Technology Skills"
+  }
+}

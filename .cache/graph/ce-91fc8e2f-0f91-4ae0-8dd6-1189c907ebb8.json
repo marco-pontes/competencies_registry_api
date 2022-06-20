@@ -1,0 +1,38 @@
+{
+  "@context": "https://credreg.net/ctdl/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/graph/ce-91fc8e2f-0f91-4ae0-8dd6-1189c907ebb8",
+  "@graph": [
+    {
+      "@id": "https://staging.credentialengineregistry.org/resources/ce-91fc8e2f-0f91-4ae0-8dd6-1189c907ebb8",
+      "@type": "ceterms:DigitalBadge",
+      "ceterms:ctid": "ce-91fc8e2f-0f91-4ae0-8dd6-1189c907ebb8",
+      "ceterms:name": {
+        "en-US": "Publisher Essentials"
+      },
+      "ceterms:ownedBy": [
+        "https://staging.credentialengineregistry.org/resources/ce-9bd8c615-9f3c-40e6-9c20-6d9f811844e6"
+      ],
+      "ceterms:offeredBy": [
+        "https://staging.credentialengineregistry.org/resources/ce-9bd8c615-9f3c-40e6-9c20-6d9f811844e6"
+      ],
+      "ceterms:inLanguage": [
+        "en"
+      ],
+      "ceterms:description": {
+        "en-US": "Learn the essentials for publishing data to the registry or format your data in the language of the web: linked data."
+      },
+      "ceterms:subjectWebpage": "https://credentialengine.org",
+      "ceterms:credentialStatusType": {
+        "@type": "ceterms:CredentialAlignmentObject",
+        "ceterms:framework": "https://credreg.net/ctdl/terms/CredentialStatus",
+        "ceterms:targetNode": "credentialStat:Active",
+        "ceterms:frameworkName": {
+          "en-US": "CredentialStatus"
+        },
+        "ceterms:targetNodeName": {
+          "en-US": "Active"
+        }
+      }
+    }
+  ]
+}

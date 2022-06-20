@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c3382b-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c3382b-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "remember words, numbers, pictures, or steps"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c337d8-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.1.d.1",
+  "ceasn:competencyText": {
+    "en-us": "The ability to remember information such as words, numbers, pictures, and procedures."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Memorization"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

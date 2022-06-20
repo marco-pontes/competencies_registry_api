@@ -1,0 +1,33 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c26535-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c26535-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Social"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c2658f-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c265eb-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c26648-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c2669e-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c266f7-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c26751-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2000-08-01T00:00:00Z",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:codedNotation": "2.B.1",
+  "ceasn:competencyText": {
+    "en-us": "Developed capacities used to work with people to achieve goals"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c26535-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Social Skills"
+  }
+}

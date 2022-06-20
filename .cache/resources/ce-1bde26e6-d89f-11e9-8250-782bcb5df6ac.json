@@ -1,0 +1,30 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-1bde26e6-d89f-11e9-8250-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-1bde26e6-d89f-11e9-8250-782bcb5df6ac",
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-01625ed3-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01625f9a-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01626061-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016246fb-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0162515b-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01625287-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01626438-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-01626576-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-0162792f-d819-11e9-8250-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-016266bb-d819-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-9fab4187-d8e7-11e9-8250-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-1bde2610-d89f-11e9-8250-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "2022-02-21",
+  "ceasn:codedNotation": "43232802",
+  "ceasn:competencyText": {
+    "en-us": "Network operating system enhancement software"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-1bde26e6-d89f-11e9-8250-782bcb5df6ac"
+  ]
+}

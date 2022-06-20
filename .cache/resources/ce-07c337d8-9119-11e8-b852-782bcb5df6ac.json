@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c337d8-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c337d8-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Memory"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c3382b-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c258c1-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.1.d",
+  "ceasn:competencyText": {
+    "en-us": "Abilities related to the recall of available information"
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Memory"
+  }
+}

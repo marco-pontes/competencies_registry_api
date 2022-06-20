@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c33fb1-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c33fb1-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "pay attention to something without being distracted"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c33f61-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.1.g.1",
+  "ceasn:competencyText": {
+    "en-us": "The ability to concentrate on a task over a period of time without being distracted."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Selective Attention"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

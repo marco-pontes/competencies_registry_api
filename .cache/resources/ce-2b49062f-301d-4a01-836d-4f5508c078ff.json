@@ -1,0 +1,21 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-2b49062f-301d-4a01-836d-4f5508c078ff",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-2b49062f-301d-4a01-836d-4f5508c078ff",
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-38193c03-1979-48ea-adf1-ce257d92178e",
+  "ceasn:dateCreated": "2022-01-12",
+  "ceasn:dateModified": "2022-01-12T14:27:00.92Z",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-38193c03-1979-48ea-adf1-ce257d92178e",
+  "ceasn:competencyText": {
+    "en-us": "Test Comp 2"
+  },
+  "ceterms:occupationType": [
+    {
+      "@type": "ceterms:CredentialAlignmentObject",
+      "ceterms:targetNodeName": {
+        "en-US": "tester"
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c288a1-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c288a1-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "medicine and dentistry"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c28845-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2002-06-01T00:00:00Z",
+  "ceasn:codedNotation": "2.C.5.a",
+  "ceasn:competencyText": {
+    "en-us": "Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures."
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c288a1-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Medicine and Dentistry"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Knowledge"
+  }
+}

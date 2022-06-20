@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c34156-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c34156-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "hold or move items with your hands"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c340ad-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.2.a.2",
+  "ceasn:competencyText": {
+    "en-us": "The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Manual Dexterity"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

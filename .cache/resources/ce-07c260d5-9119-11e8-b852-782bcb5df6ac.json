@@ -1,0 +1,30 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c260d5-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c260d5-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "reading work related information"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c25f74-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c25fd1-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2002-06-01T00:00:00Z",
+  "ceasn:codedNotation": "2.A.1.a",
+  "ceasn:competencyText": {
+    "en-us": "Understanding written sentences and paragraphs in work related documents."
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c260d5-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Reading Comprehension"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Skills"
+  }
+}

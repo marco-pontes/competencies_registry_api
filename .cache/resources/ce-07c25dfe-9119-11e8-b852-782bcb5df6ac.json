@@ -1,0 +1,26 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c25dfe-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c25dfe-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Math"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c33735-9119-11e8-b852-782bcb5df6ac",
+    "https://staging.credentialengineregistry.org/resources/ce-07c33787-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c258c1-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.1.c",
+  "ceasn:competencyText": {
+    "en-us": "Abilities that influence the solution of problems involving mathematical relationships"
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Quantitative Abilities"
+  }
+}

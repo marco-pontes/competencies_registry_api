@@ -1,0 +1,28 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c267ac-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c267ac-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Problem Solving"
+    ]
+  },
+  "ceasn:hasChild": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c26809-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2000-08-01T00:00:00Z",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-07c264d7-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:codedNotation": "2.B.2",
+  "ceasn:competencyText": {
+    "en-us": "Developed capacities used to solve novel, ill-defined problems in complex, real-world settings"
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c267ac-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Complex Problem Solving Skills"
+  }
+}

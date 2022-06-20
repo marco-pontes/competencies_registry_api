@@ -1,0 +1,28 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c28b67-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c28b67-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "Education and Training"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2002-06-01T00:00:00Z",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:codedNotation": "2.C.6",
+  "ceasn:competencyText": {
+    "en-us": "Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups, and the measurement of training effects."
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c28b67-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Education and Training"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Knowledge"
+  }
+}

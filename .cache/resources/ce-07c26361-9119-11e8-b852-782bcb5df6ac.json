@@ -1,0 +1,30 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c26361-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c26361-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "thinking about the pros and cons of different ways to solve a problem"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c25f74-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c26304-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2002-06-01T00:00:00Z",
+  "ceasn:codedNotation": "2.A.2.a",
+  "ceasn:competencyText": {
+    "en-us": "Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions or approaches to problems."
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c26361-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "Critical Thinking"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Skills"
+  }
+}

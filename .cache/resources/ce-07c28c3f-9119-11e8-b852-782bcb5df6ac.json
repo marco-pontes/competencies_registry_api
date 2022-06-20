@@ -1,0 +1,30 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c28c3f-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c28c3f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "English language"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c27a0f-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c28bdc-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:dateCreated": "1998-12-01",
+  "ceasn:dateModified": "2002-06-01T00:00:00Z",
+  "ceasn:codedNotation": "2.C.7.a",
+  "ceasn:competencyText": {
+    "en-us": "Knowledge of the structure and content of the English language including the meaning and spelling of words, rules of composition, and grammar."
+  },
+  "ceasn:exactAlignment": [
+    "https://www.onetcenter.org/ctdlasn/resources/ce-07c28c3f-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:competencyLabel": {
+    "en-us": "English Language"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Knowledge"
+  }
+}

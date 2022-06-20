@@ -1,0 +1,15 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-0f5e1a0b-f4bf-47c8-ad9d-9261b740d899",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-0f5e1a0b-f4bf-47c8-ad9d-9261b740d899",
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-d3248489-6d20-44eb-bccd-e686b4e9e082",
+  "ceasn:dateCreated": "2022-01-18",
+  "ceasn:isTopChildOf": "https://staging.credentialengineregistry.org/resources/ce-d3248489-6d20-44eb-bccd-e686b4e9e082",
+  "ceasn:competencyText": {
+    "en-us": "Understand how processes of natural selection lead to evolutionary changes."
+  },
+  "ceasn:exactAlignment": [
+    "https://credentialengineregistry.org/resources/ce-0f5e1a0b-f4bf-47c8-ad9d-9261b740d899"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-ffdbea3d-e898-4297-8e1f-c6d108886331",
+  "@type": "skos:ConceptScheme",
+  "ceasn:name": {
+    "en-us": "Substantiating concepts test scheme"
+  },
+  "ceterms:ctid": "ce-ffdbea3d-e898-4297-8e1f-c6d108886331",
+  "ceasn:creator": [
+    "https://staging.credentialengineregistry.org/resources/ce-9bd8c615-9f3c-40e6-9c20-6d9f811844e6"
+  ],
+  "ceasn:publisher": [
+    "https://staging.credentialengineregistry.org/resources/ce-9bd8c615-9f3c-40e6-9c20-6d9f811844e6"
+  ],
+  "ceasn:inLanguage": [
+    "en-US"
+  ],
+  "ceasn:dateCreated": "2022-01-27",
+  "ceasn:description": {
+    "en-us": "Substantiating properties"
+  },
+  "ceasn:dateModified": "2022-02-22T19:44:35.288Z",
+  "skos:hasTopConcept": [
+    "https://staging.credentialengineregistry.org/resources/ce-22b22fb7-e935-4903-8321-5d078eb56c9f",
+    "https://staging.credentialengineregistry.org/resources/ce-97152c52-a19c-4bd7-b23e-f7339c386208"
+  ],
+  "ceasn:publisherName": {
+    "en-us": "Credential Engine Administration Staging"
+  },
+  "ceasn:publicationStatusType": "http://credreg.net/ctdlasn/vocabs/publicationStatus/Draft"
+}

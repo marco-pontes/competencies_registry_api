@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c34b0b-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c34b0b-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c34a66-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.3.c.2",
+  "ceasn:competencyText": {
+    "en-us": "The ability to quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Dynamic Flexibility"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-07c34004-9119-11e8-b852-782bcb5df6ac",
+  "@type": "ceasn:Competency",
+  "ceterms:ctid": "ce-07c34004-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:comment": {
+    "en-us": [
+      "do two or more things at the same time"
+    ]
+  },
+  "ceasn:isPartOf": "https://staging.credentialengineregistry.org/resources/ce-07c257d6-9119-11e8-b852-782bcb5df6ac",
+  "ceasn:isChildOf": [
+    "https://staging.credentialengineregistry.org/resources/ce-07c33f61-9119-11e8-b852-782bcb5df6ac"
+  ],
+  "ceasn:codedNotation": "1.A.1.g.2",
+  "ceasn:competencyText": {
+    "en-us": "The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources)."
+  },
+  "ceasn:competencyLabel": {
+    "en-us": "Time Sharing"
+  },
+  "ceasn:competencyCategory": {
+    "en-us": "Abilities"
+  }
+}

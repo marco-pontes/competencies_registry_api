@@ -1,0 +1,11 @@
+{
+  "@context": "https://credreg.net/ctdlasn/schema/context/json",
+  "@id": "https://staging.credentialengineregistry.org/resources/ce-22b22fb7-e935-4903-8321-5d078eb56c9f",
+  "@type": "ceasn:Concept",
+  "ceterms:ctid": "ce-22b22fb7-e935-4903-8321-5d078eb56c9f",
+  "skos:inScheme": "https://staging.credentialengineregistry.org/resources/ce-ffdbea3d-e898-4297-8e1f-c6d108886331",
+  "skos:prefLabel": {
+    "en-us": "New Concept"
+  },
+  "skos:topConceptOf": "https://staging.credentialengineregistry.org/resources/ce-ffdbea3d-e898-4297-8e1f-c6d108886331"
+}
