@@ -1,19 +1,19 @@
 import logging
+from os import path
 
 from data_importer.decoder.data_decoder import DataDecoder
 from data_importer.json.api_client import ApiClient
 from data_importer.json.cache_manager import CacheManager
 from data_importer.resources.resources_manager import ResourcesManager
 from data_importer.resources.tree_data_loader import TreeDataLoader
-from os import path
 
-from definitions import ROOT_DIR
-from models import db, set_sql_debug
 from data_importer.services.competency_tree_database_populator_service import CompetencyTreeDatabasePopulatorService
+from definitions import ROOT_DIR
+from models import db
+from config.database import setup_database
 
-db.bind(provider='sqlite', filename=path.join(ROOT_DIR, 'database.sqlite'), create_db=True)
-db.generate_mapping(create_tables=True)
-set_sql_debug(True)
+db_settings = {'provider': 'sqlite', 'filename': path.join(ROOT_DIR, 'database.sqlite'), 'create_db': True}
+setup_database(db, db_settings, reset_database=True, sql_debug=True)
 
 logging.basicConfig(level=logging.INFO)
 

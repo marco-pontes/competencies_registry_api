@@ -1,7 +1,11 @@
 # Competencies Registry Importer/API
 
-This project is based on the Learning Tapestry developer [test guidelines](https://github.com/learningtapestry/learning-tapestry-developer-test)
-and contains an registry API data fetcher, database populator and serves an API(WIP) for a React frontend application(WIP).
+This project is based on the Learning Tapestry developer [test challenge](https://github.com/learningtapestry/learning-tapestry-developer-test) and contains three main components:
+
+- A registry API data fetcher and database populator(currently uses sqlite, postgres still being implemented).
+- An API for a frontend application.
+- The React frontend that consumes the API.
+
 ## Configuration
 
 1. Clone the repo:
@@ -18,8 +22,21 @@ cd competencies_registry_api
 
 4. Install the project dependencies using python virtualenv to setup the environment for you:
 ```bash
-python -m venv venv && source venv/bin/activate && pip install -r requirements.txt
+python -m venv .env && source .env/bin/activate && pip install -r requirements.txt
 ```
+
+5. Run the data importer to populate the database:
+
+```bash
+PYTHONPATH=$(pwd) python data_importer/main.py       
+```
+
+6. Start the API:
+
+```bash
+uvicorn api:app --reload
+```
+
 
 ## Resources Importer
 
@@ -34,7 +51,18 @@ PYTHONPATH=$(pwd) python data_importer/main.py
 
 ## API
 
-The API will make the resources saved to the database available as an API to be used on a frontend application. This is still a work in progress.
+The API uses FastAPI to make the resources saved to the database available to be used on a frontend application.
+The API is served on [http://localhost:8000](http://127.0.0.1:8000)
+
+Current API endpoints:
+- /competencies
+
+To start the API run:
+```bash
+uvicorn api:app --reload
+```
+
+Api docs: http://127.0.0.1:8000/docs
 
 ## React Frontend
 
@@ -44,5 +72,5 @@ WIP
 
 Python backend code can be tested using the following command:
 ```bash
-python -m pytest . 
+python -m pytest tests 
 ```
