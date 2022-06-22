@@ -4,7 +4,7 @@ This project is based on the Learning Tapestry developer [test challenge](https:
 
 - A registry API data fetcher and database populator(currently uses sqlite, postgres still being implemented).
 - An API for a frontend application.
-- The React frontend that consumes the API.
+- The React frontend that consumes the API(WIP).
 
 ## Configuration
 
