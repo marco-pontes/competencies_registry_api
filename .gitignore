@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+node_modules
 venv
 database.sqlite
 .pytest_cache
